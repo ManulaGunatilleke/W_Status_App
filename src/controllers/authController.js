@@ -1,5 +1,5 @@
 const Admin = require('../models/admin');
-const User = require('../models/user'); // Updated from Student to User
+const User = require('../models/user'); 
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 

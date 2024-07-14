@@ -44,7 +44,7 @@ app.use('/admin', adminRouter);
 const userRouter = require('./routes/userRoutes');
 app.use('/user', userRouter);
 
-// // user routes
+// user routes 
 // const userRouter = require('./routes/userRoutes');
 // app.use('/user', authenticate, userRouter);
 
