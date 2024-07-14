@@ -1,6 +1,6 @@
 const Admin = require('../models/admin');
-const bcrypt = require('bcryptjs');
-const jwt = require('jsonwebtoken');
+// const bcrypt = require('bcryptjs');
+// const jwt = require('jsonwebtoken');
 
 // Get all admin
 const allAdmins = async (req, res) => {
